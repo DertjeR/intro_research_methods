@@ -1,6 +1,6 @@
 #!/bin/bash
 #This shell script contains code that downloads the wikipedia pagecount the word 'de' on the wikipedia page of Rijksuniversiteit Groningen
-#When you have downloaded the wikipedia as Rijksuniversiteit_groningen you should put it in the same location as this file
+#When you have downloaded the wikipedia as Rijksuniversiteit_groningen.txt you should put it in the same location as this file
 
 #use the following command to make your file executable:
 #chmod +x Milestone5.sh
